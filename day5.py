@@ -53,6 +53,8 @@ lis1=[1,23,4,5,6,7,8]
 # print(lis[0])
 # print(lis[1:3])
 
+#methods its a object
+
 #append
 # lis.append("Mahesh")
 # lis.append("Mahesh")
